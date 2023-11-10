@@ -1,0 +1,12 @@
+For finding lists of a available lobbies:
+use server and clientrpcs in which a player after pressing "audience", becomes a client, and pings other players (maybe just hosts),
+if they are available, and if they are a host, then from there display their ids.
+
+Sword stops swinging if player presses swing button too much in a short period of time.
+
+
+
+
+OPTIONAL: 
+Pressing F results in a different animation for the sword playing compared to pressing the attack button.
+Maybe make it consistent

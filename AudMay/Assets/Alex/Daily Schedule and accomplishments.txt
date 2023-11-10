@@ -1,0 +1,17 @@
+Finished basic text chat.
+Tasks:
+Generate a random unique username for all player or allow them to them to make up their name somehow.
+Integrate server rpc/client rpc for text chat
+Make back buttons work
+Add text chat box for hosts sides.
+Fix UI in regards to when text chat option shows up.
+
+
+
+Figure out how to delete networkManager for JoinScene after back button clicked.
+
+2/14
+Work on fixing issue with objects disappearing when inputting wrong code. Look at JoinRoom method catch and finally stuff.
+
+2/16
+Fix lighting in map and I added animator components to enemies....check where to put animator component.

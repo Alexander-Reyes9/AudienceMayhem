@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dd35d161f81dd164eae32993ef194276
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_JumpSound: {fileID: 8300000, guid: 5897aeed9b676024fbb8c694b421a861, type: 3}
+  - m_LandSound: {instanceID: 0}
+  - coinCountText: {instanceID: 0}
+  - Joystick: {instanceID: 0}
+  - LJoystick: {instanceID: 0}
+  - jBtn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

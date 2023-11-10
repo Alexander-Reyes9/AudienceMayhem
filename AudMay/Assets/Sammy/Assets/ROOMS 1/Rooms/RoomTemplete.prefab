@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5074937776888400821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5074937776888400819}
+  - component: {fileID: 7590281183052756217}
+  m_Layer: 0
+  m_Name: RoomTemplete
+  m_TagString: Rooms
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5074937776888400819
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5074937776888400821}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7590281183052756217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5074937776888400821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f78c1caa27fe0f4599f81f331b506bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topRooms: []
+  bottomRooms: []
+  leftRooms: []
+  rightRooms: []
+  endRooms: []
+  rooms: []
+  floors:
+  - {fileID: 3335345737610771638, guid: 15b9a97486d7ccd42b7ce8d9dec302d7, type: 3}
+  - {fileID: 729793217, guid: 94bf131a9e5d38145a898f236e3c57cf, type: 3}
+  - {fileID: 1722120940, guid: 2760bdb9f637e2248ab22de776e730f8, type: 3}
+  - {fileID: 1597126349, guid: abf89273c4e373c45bf43db1e49aa61c, type: 3}
+  - {fileID: 8280760276242213767, guid: 4b0747c009e43a2449faa2c5096df735, type: 3}
+  - {fileID: 985577293, guid: fb732fdfd74b20c4fbd1ca527d5c4729, type: 3}
+  - {fileID: 234329831, guid: 7e050c3687d8a374b9f89ed823f2fc5f, type: 3}
+  - {fileID: 182510848, guid: 572181b667b4af9419bdc66de4c10457, type: 3}
+  - {fileID: 356866786, guid: f706e798d607ac14093157c10d5644ec, type: 3}
+  - {fileID: 1317743034, guid: 507b3a96641c5a84b99b6e2fa7f1a2cf, type: 3}
+  - {fileID: 1603742014, guid: 9a141d5e325d734439f45e492ca1a4b6, type: 3}
+  - {fileID: 1628770746, guid: b7334ba8814307146bb3303d6b900ac5, type: 3}
+  doorways:
+  - {fileID: 3186221368670502515, guid: c0b8c07e31398524dbe5064db8ec0dab, type: 3}
+  - {fileID: 6682531999731227338, guid: a29b648b22c07f84d84b86f06b759c0a, type: 3}
+  - {fileID: 81052807071991183, guid: 480cc975ce9484b4797f6b5d0d66a6a5, type: 3}
+  walls:
+  - {fileID: 2694277187569083795, guid: 6b18f0f15d3b81e4ab951bd15114cca0, type: 3}
+  ceilings: []
+  numRooms: 0
+  limit: 25

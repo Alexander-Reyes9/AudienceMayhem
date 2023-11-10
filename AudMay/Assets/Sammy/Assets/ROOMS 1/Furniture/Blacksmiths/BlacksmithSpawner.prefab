@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4515583881956690426
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2175164827380113614}
+  - component: {fileID: 688169841952004607}
+  m_Layer: 0
+  m_Name: BlacksmithSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2175164827380113614
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4515583881956690426}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.0749297, y: 20.215872, z: -29.652912}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &688169841952004607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4515583881956690426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a841ae6785e05384daf9390e87e2a1bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pickups:
+  - {fileID: 935617562, guid: 53e97b184e0359c4f95c9a69a832ac5d, type: 3}
+  - {fileID: 1480133058, guid: 71140405fd0c8004c830b069a2f05fa6, type: 3}
+  - {fileID: 72142810, guid: 718e9027091d6a345ad3a2804a74fa64, type: 3}
+  - {fileID: 1283997953, guid: fa37a17310902d048bb25c0c3286d43b, type: 3}
+  - {fileID: 1513824485, guid: c7ffd0d7dc71d504b9074b49da54db3f, type: 3}
+  index: -1
+  am: {fileID: 0}

@@ -1,0 +1,17 @@
+Things to fix:
+Enemy enters the player and the player is unable to fight back against this enemy.
+Maybe add cooling period.
+Texture glitches in some walls.
+Animate enemies prevent enemy meshes from going through walls.
+red demon, mutant guy, and ancient queen
+
+//**Add light to weapons and items player can use to make it look good.
+Weapon_0
+Currently doing this.
+//Make item shop functional.
+//Maybe add a way for a player to dodge enemy attacks and enemy shows a time when they're about to attack the player.
+Fix 
+DONE
+Different animation plays when f key is pressed and pressing the attack button. Maybe fix it if time permits.
+Sword stops swinging/attacking after spamming the attack button/key.
+Added light to cupcake game object and increase spin from 15 to 150 degrees.
